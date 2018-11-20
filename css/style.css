@@ -1,0 +1,106 @@
+/** BASE STYLE **/
+section
+{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+a
+{
+color: white;
+}
+a:hover{
+    color:white;
+}
+a:active{
+    color:white;
+}
+a:visited
+{
+    color:white;
+}
+.bg-info ,.btn-info
+{
+   background-color: #0475ba!important;
+}
+footer
+ul
+{
+list-style: none;
+margin-top:10px;
+padding-top:10px;
+padding-bottom: 10px;
+}
+
+/** HEADER **/
+#header
+{
+background-image:url(../img/header.jpg);
+background-color:black;
+min-height: 700px;
+color:white;
+padding-top: 160px;}
+#header
+ p
+{
+font-size: 2em;
+}
+form
+{
+background-color: white;
+color:black;
+padding: 40px 30px;
+border-radius: 10px;
+}
+button
+{
+margin-top: 10px;
+}
+/** SECTIONS **/
+#students 
+p
+{
+color:white;
+margin-top: 100px;
+}
+#students 
+ img
+{
+border-radius:5px;
+}
+#volunteers
+p
+{background-color: white;
+    margin-top: 100px;
+}
+#volunteers 
+img
+{
+    border-radius:5px;
+}
+/** TEAM **/
+#Team
+.team-member
+{
+ text-align: center;
+}
+.team-member
+  img 
+  {
+      height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    box-shadow: 3px 3px rgb(0, 140, 255), -1em 0 .4em rgb(0, 109, 128);
+}
+h6
+{
+color: #0475ba;
+}
+
+/** FOOTER **/
+footer
+{
+    padding-top: 60px;
+    padding-bottom: 60px;
+   
+}

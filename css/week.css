@@ -1,0 +1,11 @@
+body
+{ 
+    background-color: lightblue
+}
+h1{
+    color:white;
+    text-align: center;
+    font-size:42;
+    font-style:italic;
+    font-family:cursive;
+}
